@@ -1,0 +1,199 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "task": "test",
+      "assignee": "Rutik",
+      "status": "To Be Done"
+    },
+    {
+      "task": "test 2",
+      "assignee": "test 2",
+      "status": "To Be Done",
+      "id": 2
+    },
+    {
+      "createdBy": "rutik",
+      "task": "Learn NgRx",
+      "assignee": "Rutik Thakkar",
+      "status": "To Be Done",
+      "id": 3
+    },
+    {
+      "createdBy": "rutik",
+      "task": "Learn Ngrx application with effects",
+      "assignee": "Rutik Thakkar",
+      "status": "To Be Done",
+      "id": 4
+    },
+    {
+      "createdBy": "rutik",
+      "task": "test",
+      "assignee": "Rutik Thakkar",
+      "status": "To Be Done",
+      "id": 6
+    },
+    {
+      "createdBy": "rutik@0201",
+      "task": "make a demo",
+      "assignee": "rutik",
+      "status": "To Be Done",
+      "id": 7
+    }
+  ],
+  "register": [
+    {
+      "firstName": "rutik",
+      "lastName": "rutik",
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 1
+    },
+    {
+      "firstName": "rutik",
+      "lastName": "thakkar",
+      "username": "rutik@0201",
+      "password": "Monday.12345",
+      "id": 2
+    },
+    {
+      "firstName": "rutikT",
+      "lastName": "rutikT",
+      "username": "rutik2022",
+      "password": "rutik@123",
+      "id": 3
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "username": "test",
+      "password": "test1234",
+      "id": 4
+    },
+    {
+      "firstName": "rutik ",
+      "lastName": "thakkar",
+      "username": "rutik@0201",
+      "password": "Monday.12345",
+      "id": 5
+    },
+    {
+      "firstName": "testNew",
+      "lastName": "testNew",
+      "username": "testNew",
+      "password": "testNew",
+      "id": 6
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "username": "test",
+      "password": "test12345",
+      "id": 7
+    },
+    {
+      "firstName": "neUser",
+      "lastName": "neUser",
+      "username": "neUser",
+      "password": "neUser",
+      "id": 8
+    }
+  ],
+  "login": [
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 1
+    },
+    {
+      "username": "rutik@0201",
+      "password": "Monday.12345",
+      "id": 2
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 3
+    },
+    {
+      "username": "rutik2022",
+      "password": "rutik@123",
+      "id": 4
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 5
+    },
+    {
+      "username": "test",
+      "password": "test1234",
+      "id": 6
+    },
+    {
+      "username": "test",
+      "password": "test1234",
+      "id": 7
+    },
+    {
+      "username": "test",
+      "password": "test1234",
+      "id": 8
+    },
+    {
+      "username": "test",
+      "password": "test1234",
+      "id": 9
+    },
+    {
+      "username": "rutik@0201",
+      "password": "Monday.12345",
+      "id": 10
+    },
+    {
+      "username": "rutik@0201",
+      "password": "Monday.12345",
+      "id": 11
+    },
+    {
+      "username": "testNew",
+      "password": "testNew",
+      "id": 12
+    },
+    {
+      "username": "testNew",
+      "password": "testNew",
+      "id": 13
+    },
+    {
+      "username": "test",
+      "password": "test12345",
+      "id": 14
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 15
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 16
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 17
+    },
+    {
+      "username": "rutik",
+      "password": "Monday.12345",
+      "id": 18
+    },
+    {
+      "username": "neUser",
+      "password": "neUser",
+      "id": 19
+    }
+  ]
+}
